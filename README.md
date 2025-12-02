@@ -1,5 +1,5 @@
 # alpha-pro
-Project from IT3105, NTNU trondheim. 
+Simplified reimplementation of Goodgle DeepMind's AlphaGo for Hex and Nim. 
 
 ## AlphaGo knock-off project
 
